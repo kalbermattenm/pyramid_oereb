@@ -1,4 +1,4 @@
-FROM camptocamp/c2cwsgiutils:0
+FROM camptocamp/c2cwsgiutils:1
 LABEL maintainer "info@camptocamp.org"
 
 WORKDIR /app
